@@ -1,0 +1,11 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\bin\Debug\net8.0\WGL.BBS.Persistence.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\bin\Debug\net8.0\WGL.BBS.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\bin\Debug\net8.0\WGL.BBS.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\WGL.BBS.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\WGL.BBS.Persistence.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\WGL.BBS.Persistence.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\WGL.BBS.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\WGL.BBS.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\refint\WGL.BBS.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\WGL.BBS.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Persistence\obj\Debug\net8.0\ref\WGL.BBS.Persistence.dll

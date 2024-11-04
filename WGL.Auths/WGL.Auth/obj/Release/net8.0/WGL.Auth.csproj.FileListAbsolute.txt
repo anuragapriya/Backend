@@ -1,0 +1,6 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth\obj\Release\net8.0\WGL.Auth.csproj.AssemblyReference.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth\obj\Release\net8.0\WGL.Auth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth\obj\Release\net8.0\WGL.Auth.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth\obj\Release\net8.0\WGL.Auth.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth\obj\Release\net8.0\WGL.Auth.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth\obj\Release\net8.0\WGL.Auth.MvcApplicationPartsAssemblyInfo.cache

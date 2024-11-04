@@ -1,0 +1,11 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\bin\Debug\net8.0\WGL.Energy.Application.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\bin\Debug\net8.0\WGL.Energy.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\bin\Debug\net8.0\WGL.Energy.Application.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\WGL.Energy.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\WGL.Energy.Application.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\WGL.Energy.Application.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\WGL.Energy.Application.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\WGL.Energy.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\refint\WGL.Energy.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\WGL.Energy.Application.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Application\obj\Debug\net8.0\ref\WGL.Energy.Application.dll

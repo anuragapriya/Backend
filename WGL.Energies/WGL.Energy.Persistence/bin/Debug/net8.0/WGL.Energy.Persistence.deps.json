@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WGL.Energy.Persistence/1.0.0": {
+        "runtime": {
+          "WGL.Energy.Persistence.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WGL.Energy.Persistence/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

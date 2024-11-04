@@ -1,0 +1,11 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\bin\Debug\net8.0\WGL.Energy.Persistence.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\bin\Debug\net8.0\WGL.Energy.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\bin\Debug\net8.0\WGL.Energy.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\WGL.Energy.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\WGL.Energy.Persistence.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\WGL.Energy.Persistence.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\WGL.Energy.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\WGL.Energy.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\refint\WGL.Energy.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\WGL.Energy.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Persistence\obj\Debug\net8.0\ref\WGL.Energy.Persistence.dll

@@ -1,0 +1,11 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\bin\Debug\net8.0\WGL.MapCenter.Domain.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\bin\Debug\net8.0\WGL.MapCenter.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\bin\Debug\net8.0\WGL.MapCenter.Domain.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\WGL.MapCenter.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\WGL.MapCenter.Domain.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\WGL.MapCenter.Domain.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\WGL.MapCenter.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\WGL.MapCenter.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\refint\WGL.MapCenter.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\WGL.MapCenter.Domain.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Domain\obj\Debug\net8.0\ref\WGL.MapCenter.Domain.dll

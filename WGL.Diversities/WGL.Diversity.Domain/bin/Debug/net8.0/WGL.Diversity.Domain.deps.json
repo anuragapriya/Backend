@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "WGL.Diversity.Domain/1.0.0": {
+        "runtime": {
+          "WGL.Diversity.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WGL.Diversity.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\bin\Debug\net8.0\WGL.Account.Infrastructure.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\bin\Debug\net8.0\WGL.Account.Infrastructure.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\bin\Debug\net8.0\WGL.Account.Infrastructure.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\WGL.Account.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\WGL.Account.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\WGL.Account.Infrastructure.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\WGL.Account.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\WGL.Account.Infrastructure.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\refint\WGL.Account.Infrastructure.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\WGL.Account.Infrastructure.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Infrastructure\obj\Debug\net8.0\ref\WGL.Account.Infrastructure.dll

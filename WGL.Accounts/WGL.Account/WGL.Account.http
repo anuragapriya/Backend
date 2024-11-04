@@ -1,0 +1,6 @@
+@WGL.Account_HostAddress = http://localhost:5034
+
+GET {{WGL.Account_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

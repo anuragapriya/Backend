@@ -1,0 +1,6 @@
+@WGL.MapCenter_HostAddress = http://localhost:5258
+
+GET {{WGL.MapCenter_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

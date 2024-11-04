@@ -1,0 +1,325 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth\\WGL.Auth.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Application\\WGL.Auth.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Application\\WGL.Auth.Application.csproj",
+        "projectName": "WGL.Auth.Application",
+        "projectPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Application\\WGL.Auth.Application.csproj",
+        "packagesPath": "C:\\Users\\mutanura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mutanura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Domain\\WGL.Auth.Domain.csproj": {
+                "projectPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Domain\\WGL.Auth.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "LazyCache.AspNetCore": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[11.1.0, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Domain\\WGL.Auth.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Domain\\WGL.Auth.Domain.csproj",
+        "projectName": "WGL.Auth.Domain",
+        "projectPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Domain\\WGL.Auth.Domain.csproj",
+        "packagesPath": "C:\\Users\\mutanura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mutanura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Persistence\\WGL.Auth.Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Persistence\\WGL.Auth.Persistence.csproj",
+        "projectName": "WGL.Auth.Persistence",
+        "projectPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Persistence\\WGL.Auth.Persistence.csproj",
+        "packagesPath": "C:\\Users\\mutanura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Persistence\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mutanura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Application\\WGL.Auth.Application.csproj": {
+                "projectPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Application\\WGL.Auth.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.1.35, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth\\WGL.Auth.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth\\WGL.Auth.csproj",
+        "projectName": "WGL.Auth",
+        "projectPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth\\WGL.Auth.csproj",
+        "packagesPath": "C:\\Users\\mutanura\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mutanura\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Persistence\\WGL.Auth.Persistence.csproj": {
+                "projectPath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.Auths\\WGL.Auth.Persistence\\WGL.Auth.Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[8.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

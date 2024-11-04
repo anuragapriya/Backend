@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "mNceqS+ULh0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mutanura\\Documents\\WGL\\Source\\WGL Portal Solutions\\WGL.BBSs\\WGL.BBS.Application\\WGL.BBS.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mutanura\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

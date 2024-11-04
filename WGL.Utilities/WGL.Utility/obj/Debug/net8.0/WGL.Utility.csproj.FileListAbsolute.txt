@@ -1,0 +1,12 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\bin\Debug\net8.0\WGL.Utility.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\bin\Debug\net8.0\WGL.Utility.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\bin\Debug\net8.0\WGL.Utility.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\WGL.Utility.csproj.AssemblyReference.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\WGL.Utility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\WGL.Utility.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\WGL.Utility.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\WGL.Utility.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\WGL.Utility.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\refint\WGL.Utility.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\WGL.Utility.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\obj\Debug\net8.0\ref\WGL.Utility.dll

@@ -1,0 +1,11 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\bin\Debug\net8.0\WGL.Diversity.Domain.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\bin\Debug\net8.0\WGL.Diversity.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\bin\Debug\net8.0\WGL.Diversity.Domain.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\WGL.Diversity.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\WGL.Diversity.Domain.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\WGL.Diversity.Domain.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\WGL.Diversity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\WGL.Diversity.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\refint\WGL.Diversity.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\WGL.Diversity.Domain.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Domain\obj\Debug\net8.0\ref\WGL.Diversity.Domain.dll

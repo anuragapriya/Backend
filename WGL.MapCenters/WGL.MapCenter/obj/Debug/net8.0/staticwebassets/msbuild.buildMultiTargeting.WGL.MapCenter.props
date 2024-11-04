@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WGL.MapCenter.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\bin\Debug\net8.0\WGL.Auth.Persistence.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\bin\Debug\net8.0\WGL.Auth.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\bin\Debug\net8.0\WGL.Auth.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.Persistence.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.Persistence.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\refint\WGL.Auth.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\ref\WGL.Auth.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.Persistence.csproj.AssemblyReference.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\obj\Debug\net8.0\WGL.Auth.3CED9195.Up2Date
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\bin\Debug\net8.0\WGL.Auth.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\bin\Debug\net8.0\WGL.Auth.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\bin\Debug\net8.0\WGL.Auth.Application.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Persistence\bin\Debug\net8.0\WGL.Auth.Domain.pdb

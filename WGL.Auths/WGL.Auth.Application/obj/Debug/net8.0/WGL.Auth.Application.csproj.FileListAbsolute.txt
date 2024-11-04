@@ -1,0 +1,15 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\bin\Debug\net8.0\WGL.Auth.Application.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\bin\Debug\net8.0\WGL.Auth.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\bin\Debug\net8.0\WGL.Auth.Application.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.Application.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.Application.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.Application.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\refint\WGL.Auth.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.Application.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\ref\WGL.Auth.Application.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.Application.csproj.AssemblyReference.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\obj\Debug\net8.0\WGL.Auth.1E7EC2AF.Up2Date
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\bin\Debug\net8.0\WGL.Auth.Domain.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Application\bin\Debug\net8.0\WGL.Auth.Domain.pdb

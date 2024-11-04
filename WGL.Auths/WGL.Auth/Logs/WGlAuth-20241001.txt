@@ -1,0 +1,15 @@
+[17:48:26 INF] OneLogin-GenerateTokenQuery: Received Token => 0c7a460a54f1b4e7ab5e754f22a20fa26a949f6d4e93b5c40835646989f13726
+[17:54:26 INF] OneLogin-GenerateTokenQuery: Received Token => 0c7a460a54f1b4e7ab5e754f22a20fa26a949f6d4e93b5c40835646989f13726
+[18:23:41 INF] OneLogin-GenerateTokenQuery: Received Token => 0c7a460a54f1b4e7ab5e754f22a20fa26a949f6d4e93b5c40835646989f13726
+[18:25:28 ERR] Error occured while getting User Session Token => "BadRequest",https://sgsuam.onelogin.com/api/1/login/auth,Majid.Husain6@gmail.com,Majid$2024
+[18:29:01 INF] OneLogin-GenerateTokenQuery: Received Token => 0c7a460a54f1b4e7ab5e754f22a20fa26a949f6d4e93b5c40835646989f13726
+[18:31:49 INF] OneLogin-GenerateTokenQuery: Received Token => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyNDEzMjU3MjksImV4cCI6MTcyNzc4Nzc2MX0.nlpxDM7rZo5TUh1diZrKDCekuLldqvXCrB5g5mKOtDI
+[18:36:37 INF] OneLogin-GenerateTokenQuery: Received Token => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyNDEzMjU3MjksImV4cCI6MTcyNzc4Nzc2MX0.nlpxDM7rZo5TUh1diZrKDCekuLldqvXCrB5g5mKOtDI
+[18:40:40 ERR] Error occured while getting User Session Token => "Unauthorized",https://sgsuam.onelogin.com/api/1/login/auth,Majid.Husain6@gmail.com,Majid$2024
+[18:41:31 ERR] Error occured while getting User Session Token => "Unauthorized",https://sgsuam.onelogin.com/api/1/login/auth,Majid.Husain6@gmail.com,Majid$2024
+[18:55:20 INF] OneLogin-GenerateTokenQuery: Received Token => 0c7a460a54f1b4e7ab5e754f22a20fa26a949f6d4e93b5c40835646989f13726
+[18:55:39 INF] OneLogin-GenerateTokenQuery: Received Token => eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjoyNDEzMjU3MjksImV4cCI6MTcyNzc4OTI1MX0.5cmbUdByDETcY3ln3Eha72AxBHLFRtKIEhdVBqBHThw
+[19:09:34 INF] OneLogin-GenerateTokenQuery: Received Token => 0c7a460a54f1b4e7ab5e754f22a20fa26a949f6d4e93b5c40835646989f13726
+[19:10:13 INF] OneLogin-GenerateTokenQuery: Received Token => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyNDEzMjU3MjksImV4cCI6MTcyNzc5MDEwM30.G8tBTdc9oyMwStor4zfIMHic6m3bBriG0ae0D_hSm7I
+[19:11:55 INF] OneLogin-GenerateTokenQuery: Received Token => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyNDEzMjU3MjksImV4cCI6MTcyNzc5MDEwM30.G8tBTdc9oyMwStor4zfIMHic6m3bBriG0ae0D_hSm7I
+[19:12:42 INF] OneLogin-GenerateTokenQuery: Received Token => eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyX2lkIjoyNDEzMjU3MjksImV4cCI6MTcyNzc5MDI4Mn0.TFB0sIUip5ORMLDMq0niv1jseUIxgspqiYCsc9K2eyo

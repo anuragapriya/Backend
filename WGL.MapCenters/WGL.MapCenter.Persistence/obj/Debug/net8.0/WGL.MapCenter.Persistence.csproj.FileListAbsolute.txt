@@ -1,0 +1,11 @@
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\bin\Debug\net8.0\WGL.MapCenter.Persistence.deps.json
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\bin\Debug\net8.0\WGL.MapCenter.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\bin\Debug\net8.0\WGL.MapCenter.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.AssemblyInfoInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.AssemblyInfo.cs
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\refint\WGL.MapCenter.Persistence.dll
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.pdb
+C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\ref\WGL.MapCenter.Persistence.dll
