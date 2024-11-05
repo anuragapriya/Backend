@@ -32,10 +32,15 @@ namespace WGL.Auth
             builder.Services.AddMemoryCache();
             builder.Services.AddLazyCache();
 
-            builder.Services.AddSerilog(options =>
-            {
-                options.ReadFrom.Configuration(configuration);
-            });
+            // Logger Configuration.
+            builder.Services.AddSerilog(options =>{options.ReadFrom.Configuration(configuration);});
+
+            // Cors Policy-----------------
+            // * - represent all origins
+            // Can be single or multi i.e. "https://localhost:1010/", "https://locahost:2020"
+            builder.Services.AddCors(p => p.AddPolicy("WGLAuthPolicy", build => {
+                build.WithOrigins("*").AllowAnyMethod().AllowAnyHeader();})); 
+
 
             var app = builder.Build();
 
@@ -46,6 +51,7 @@ namespace WGL.Auth
                 app.UseSwaggerUI();
             }
 
+            app.UseCors("WGLAuthPolicy");
             app.UseErrorHandlingMiddleware();
             app.UseHttpsRedirection();
             app.UseAuthorization();

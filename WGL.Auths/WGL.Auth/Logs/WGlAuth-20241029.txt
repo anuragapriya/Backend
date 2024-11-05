@@ -1,0 +1,33 @@
+[14:28:07 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - WGL.Auth.Controllers.Account.AccountController.put (WGL.Auth). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[14:33:21 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - WGL.Auth.Controllers.Account.AccountController.put (WGL.Auth). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)
+[14:33:48 ERR] An unhandled exception has occurred while executing the request.
+Swashbuckle.AspNetCore.SwaggerGen.SwaggerGeneratorException: Ambiguous HTTP method for action - WGL.Auth.Controllers.Account.AccountController.put (WGL.Auth). Actions require an explicit HttpMethod binding for Swagger/OpenAPI 3.0
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.PrepareGenerateOperation(IGrouping`2 group)
+   at System.Linq.Enumerable.SelectEnumerableIterator`2.MoveNext()
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GenerateOperationsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository, Func`3 operationsGenerator)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GeneratePathsAsync(IEnumerable`1 apiDescriptions, SchemaRepository schemaRepository)
+   at Swashbuckle.AspNetCore.SwaggerGen.SwaggerGenerator.GetSwaggerAsync(String documentName, String host, String basePath)
+   at Swashbuckle.AspNetCore.Swagger.SwaggerMiddleware.Invoke(HttpContext httpContext, ISwaggerProvider swaggerProvider)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Diagnostics.DeveloperExceptionPageMiddlewareImpl.Invoke(HttpContext context)

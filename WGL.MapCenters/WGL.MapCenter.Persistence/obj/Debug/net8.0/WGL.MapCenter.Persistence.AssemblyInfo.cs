@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WGL.MapCenter.Persistence")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea32a24e1c3ed496c9fc5b7a2bc11939ebbb2a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("WGL.MapCenter.Persistence")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WGL.MapCenter.Persistence")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

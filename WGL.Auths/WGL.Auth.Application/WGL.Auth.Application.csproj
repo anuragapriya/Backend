@@ -7,7 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="CQRS\Account\Commands\CreateUser\" />
     <Folder Include="Mappings\" />
   </ItemGroup>
 

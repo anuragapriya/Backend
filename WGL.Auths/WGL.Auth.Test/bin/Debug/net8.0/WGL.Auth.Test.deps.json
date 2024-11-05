@@ -132,11 +132,9 @@
           "Microsoft.CSharp.Reference": "8.0.0.0",
           "Microsoft.Extensions.Caching.Abstractions.Reference": "8.0.0.0",
           "Microsoft.Extensions.Configuration.Abstractions.Reference": "8.0.0.0",
-          "Microsoft.Extensions.Configuration.Binder.Reference": "8.0.0.0",
           "Microsoft.Extensions.Configuration.CommandLine.Reference": "8.0.0.0",
           "Microsoft.Extensions.Configuration.Reference": "8.0.0.0",
           "Microsoft.Extensions.Configuration.EnvironmentVariables.Reference": "8.0.0.0",
-          "Microsoft.Extensions.Configuration.FileExtensions.Reference": "8.0.0.0",
           "Microsoft.Extensions.Configuration.Ini": "8.0.0.0",
           "Microsoft.Extensions.Configuration.KeyPerFile": "8.0.0.0",
           "Microsoft.Extensions.Configuration.Xml": "8.0.0.0",
@@ -201,7 +199,6 @@
           "System.Drawing": "4.0.0.0",
           "System.Drawing.Primitives": "8.0.0.0",
           "System.Dynamic.Runtime": "8.0.0.0",
-          "System.Formats.Asn1.Reference": "8.0.0.0",
           "System.Formats.Tar": "8.0.0.0",
           "System.Globalization.Calendars": "8.0.0.0",
           "System.Globalization": "8.0.0.0",
@@ -716,6 +713,9 @@
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.724.31311"
           }
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.Configuration.Binder.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration.CommandLine/8.0.0": {
@@ -743,6 +743,9 @@
             "assemblyVersion": "8.0.0.0",
             "fileVersion": "8.0.724.31311"
           }
+        },
+        "compile": {
+          "lib/net8.0/Microsoft.Extensions.Configuration.FileExtensions.dll": {}
         }
       },
       "Microsoft.Extensions.Configuration.Json/8.0.1": {
@@ -1747,7 +1750,17 @@
           "lib/net8.0/System.Diagnostics.EventLog.dll": {}
         }
       },
-      "System.Formats.Asn1/8.0.1": {},
+      "System.Formats.Asn1/8.0.1": {
+        "runtime": {
+          "lib/net8.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31311"
+          }
+        },
+        "compile": {
+          "lib/net8.0/System.Formats.Asn1.dll": {}
+        }
+      },
       "System.IdentityModel.Tokens.Jwt/6.35.0": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "6.35.0",
@@ -1909,10 +1922,7 @@
           "WGL.Auth.Persistence": "1.0.0"
         },
         "runtime": {
-          "WGL.Auth.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WGL.Auth.dll": {}
         },
         "compile": {
           "WGL.Auth.dll": {}
@@ -1931,10 +1941,7 @@
           "WGL.Auth.Domain": "1.0.0"
         },
         "runtime": {
-          "WGL.Auth.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WGL.Auth.Application.dll": {}
         },
         "compile": {
           "WGL.Auth.Application.dll": {}
@@ -1942,10 +1949,7 @@
       },
       "WGL.Auth.Domain/1.0.0": {
         "runtime": {
-          "WGL.Auth.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WGL.Auth.Domain.dll": {}
         },
         "compile": {
           "WGL.Auth.Domain.dll": {}
@@ -1958,10 +1962,7 @@
           "WGL.Auth.Application": "1.0.0"
         },
         "runtime": {
-          "WGL.Auth.Persistence.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WGL.Auth.Persistence.dll": {}
         },
         "compile": {
           "WGL.Auth.Persistence.dll": {}
@@ -2501,12 +2502,6 @@
         },
         "compileOnly": true
       },
-      "Microsoft.Extensions.Configuration.Binder.Reference/8.0.0.0": {
-        "compile": {
-          "Microsoft.Extensions.Configuration.Binder.dll": {}
-        },
-        "compileOnly": true
-      },
       "Microsoft.Extensions.Configuration.CommandLine.Reference/8.0.0.0": {
         "compile": {
           "Microsoft.Extensions.Configuration.CommandLine.dll": {}
@@ -2522,12 +2517,6 @@
       "Microsoft.Extensions.Configuration.EnvironmentVariables.Reference/8.0.0.0": {
         "compile": {
           "Microsoft.Extensions.Configuration.EnvironmentVariables.dll": {}
-        },
-        "compileOnly": true
-      },
-      "Microsoft.Extensions.Configuration.FileExtensions.Reference/8.0.0.0": {
-        "compile": {
-          "Microsoft.Extensions.Configuration.FileExtensions.dll": {}
         },
         "compileOnly": true
       },
@@ -2912,12 +2901,6 @@
       "System.Dynamic.Runtime/8.0.0.0": {
         "compile": {
           "System.Dynamic.Runtime.dll": {}
-        },
-        "compileOnly": true
-      },
-      "System.Formats.Asn1.Reference/8.0.0.0": {
-        "compile": {
-          "System.Formats.Asn1.dll": {}
         },
         "compileOnly": true
       },
@@ -4928,11 +4911,6 @@
       "serviceable": false,
       "sha512": ""
     },
-    "Microsoft.Extensions.Configuration.Binder.Reference/8.0.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Microsoft.Extensions.Configuration.CommandLine.Reference/8.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
@@ -4944,11 +4922,6 @@
       "sha512": ""
     },
     "Microsoft.Extensions.Configuration.EnvironmentVariables.Reference/8.0.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "Microsoft.Extensions.Configuration.FileExtensions.Reference/8.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""
@@ -5269,11 +5242,6 @@
       "sha512": ""
     },
     "System.Dynamic.Runtime/8.0.0.0": {
-      "type": "referenceassembly",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "System.Formats.Asn1.Reference/8.0.0.0": {
       "type": "referenceassembly",
       "serviceable": false,
       "sha512": ""

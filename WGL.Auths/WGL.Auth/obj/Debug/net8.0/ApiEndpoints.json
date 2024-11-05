@@ -1,28 +1,6 @@
 [
   {
     "ContainingType": "WGL.Auth.Controllers.Account.AccountController",
-    "Method": "Post",
-    "RelativePath": "api/Account",
-    "HttpMethod": "POST",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "value",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
-  },
-  {
-    "ContainingType": "WGL.Auth.Controllers.Account.AccountController",
     "Method": "put",
     "RelativePath": "api/Account",
     "HttpMethod": "PUT",
@@ -89,6 +67,50 @@
   },
   {
     "ContainingType": "WGL.Auth.Controllers.Account.AccountController",
+    "Method": "AuthenticateAsync",
+    "RelativePath": "api/Account/Authenticate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WGL.Auth.Controllers.Account.AccountController",
+    "Method": "forgotPasswordAsync",
+    "RelativePath": "api/Account/forgot-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "WGL.Auth.Controllers.Account.AccountController",
     "Method": "Get",
     "RelativePath": "api/Account/GenerateToken",
     "HttpMethod": "GET",
@@ -117,5 +139,43 @@
       }
     ],
     "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WGL.Auth.Controllers.Account.AccountController",
+    "Method": "RegisterAsync",
+    "RelativePath": "api/Account/Register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userCommand",
+        "Type": "WGL.Auth.Application.CQRS.Account.Commands.CreateUser.CreateUserCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WGL.Auth.Controllers.Account.AccountController",
+    "Method": "ResetPasswordAsync",
+    "RelativePath": "api/Account/reset-password",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "value",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

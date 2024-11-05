@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\refint\WGL.BBS.Domain.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\ref\WGL.BBS.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\bin\Debug\net8.0\WGL.BBS.Domain.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\bin\Debug\net8.0\WGL.BBS.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\bin\Debug\net8.0\WGL.BBS.Domain.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\refint\WGL.BBS.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\WGL.BBS.Domain.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Domain\obj\Debug\net8.0\ref\WGL.BBS.Domain.dll

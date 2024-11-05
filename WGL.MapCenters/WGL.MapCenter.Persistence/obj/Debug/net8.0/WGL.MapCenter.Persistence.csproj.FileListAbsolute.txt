@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\refint\WGL.MapCenter.Persistence.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\ref\WGL.MapCenter.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\bin\Debug\net8.0\WGL.MapCenter.Persistence.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\bin\Debug\net8.0\WGL.MapCenter.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\bin\Debug\net8.0\WGL.MapCenter.Persistence.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\refint\WGL.MapCenter.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\WGL.MapCenter.Persistence.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Persistence\obj\Debug\net8.0\ref\WGL.MapCenter.Persistence.dll

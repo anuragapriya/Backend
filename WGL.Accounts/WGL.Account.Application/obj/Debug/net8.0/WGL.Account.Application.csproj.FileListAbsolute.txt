@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\refint\WGL.Account.Application.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\ref\WGL.Account.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\bin\Debug\net8.0\WGL.Account.Application.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\bin\Debug\net8.0\WGL.Account.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\bin\Debug\net8.0\WGL.Account.Application.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\refint\WGL.Account.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\WGL.Account.Application.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Application\obj\Debug\net8.0\ref\WGL.Account.Application.dll

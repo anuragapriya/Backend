@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\refint\WGL.Energy.Domain.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\ref\WGL.Energy.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\bin\Debug\net8.0\WGL.Energy.Domain.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\bin\Debug\net8.0\WGL.Energy.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\bin\Debug\net8.0\WGL.Energy.Domain.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\refint\WGL.Energy.Domain.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\WGL.Energy.Domain.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy.Domain\obj\Debug\net8.0\ref\WGL.Energy.Domain.dll

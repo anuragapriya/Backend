@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\refint\WGL.Diversity.Application.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\ref\WGL.Diversity.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\bin\Debug\net8.0\WGL.Diversity.Application.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\bin\Debug\net8.0\WGL.Diversity.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\bin\Debug\net8.0\WGL.Diversity.Application.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\refint\WGL.Diversity.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\WGL.Diversity.Application.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity.Application\obj\Debug\net8.0\ref\WGL.Diversity.Application.dll

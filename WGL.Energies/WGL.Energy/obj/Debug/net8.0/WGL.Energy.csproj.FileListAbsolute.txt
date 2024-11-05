@@ -30,3 +30,36 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.genruntimeconfig.cache
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\ref\WGL.Energy.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\appsettings.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\WGL.Energy.exe
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\WGL.Energy.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\WGL.Energy.runtimeconfig.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\WGL.Energy.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\WGL.Energy.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.csproj.AssemblyReference.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\staticwebassets\msbuild.WGL.Energy.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\staticwebassets\msbuild.build.WGL.Energy.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WGL.Energy.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WGL.Energy.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\scopedcss\bundle\WGL.Energy.styles.css
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.csproj.Up2Date
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\refint\WGL.Energy.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\WGL.Energy.genruntimeconfig.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Energies\WGL.Energy\obj\Debug\net8.0\ref\WGL.Energy.dll

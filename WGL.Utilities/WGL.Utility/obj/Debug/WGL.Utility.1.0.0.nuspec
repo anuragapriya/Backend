@@ -6,7 +6,7 @@
     <title>WGL : To use common feature</title>
     <authors>WGL.Utility</authors>
     <description>Utility package to consume all common features</description>
-    <repository type="git" />
+    <repository type="git" commit="fea32a24e1c3ed496c9fc5b7a2bc11939ebbb2a7" />
     <dependencies>
       <group targetFramework="net8.0">
         <dependency id="Microsoft.Data.SqlClient" version="5.2.2" exclude="Build,Analyzers" />
@@ -15,6 +15,6 @@
     </dependencies>
   </metadata>
   <files>
-    <file src="C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Utilities\WGL.Utility\bin\Debug\net8.0\WGL.Utility.dll" target="lib\net8.0\WGL.Utility.dll" />
+    <file src="C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Utilities\WGL.Utility\bin\Debug\net8.0\WGL.Utility.dll" target="lib\net8.0\WGL.Utility.dll" />
   </files>
 </package>

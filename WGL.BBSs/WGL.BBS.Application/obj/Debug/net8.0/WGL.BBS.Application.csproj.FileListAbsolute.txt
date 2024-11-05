@@ -10,3 +10,16 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\ref\WGL.BBS.Application.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.csproj.AssemblyReference.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\bin\Debug\net8.0\WGL.BBS.Application.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\bin\Debug\net8.0\WGL.BBS.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\bin\Debug\net8.0\WGL.BBS.Application.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.csproj.AssemblyReference.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\refint\WGL.BBS.Application.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\WGL.BBS.Application.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.BBSs\WGL.BBS.Application\obj\Debug\net8.0\ref\WGL.BBS.Application.dll

@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\refint\WGL.Auth.Shared.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\ref\WGL.Auth.Shared.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\bin\Debug\net8.0\WGL.Auth.Shared.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\bin\Debug\net8.0\WGL.Auth.Shared.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\bin\Debug\net8.0\WGL.Auth.Shared.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\refint\WGL.Auth.Shared.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\WGL.Auth.Shared.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Auths\WGL.Auth.Shared\obj\Debug\net8.0\ref\WGL.Auth.Shared.dll

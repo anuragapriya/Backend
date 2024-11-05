@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\refint\WGL.Account.Persistence.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\ref\WGL.Account.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\bin\Debug\net8.0\WGL.Account.Persistence.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\bin\Debug\net8.0\WGL.Account.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\bin\Debug\net8.0\WGL.Account.Persistence.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\refint\WGL.Account.Persistence.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\WGL.Account.Persistence.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Accounts\WGL.Account.Persistence\obj\Debug\net8.0\ref\WGL.Account.Persistence.dll

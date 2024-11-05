@@ -9,3 +9,15 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\refint\WGL.MapCenter.Appliction.dll
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\ref\WGL.MapCenter.Appliction.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\bin\Debug\net8.0\WGL.MapCenter.Appliction.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\bin\Debug\net8.0\WGL.MapCenter.Appliction.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\bin\Debug\net8.0\WGL.MapCenter.Appliction.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\refint\WGL.MapCenter.Appliction.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\WGL.MapCenter.Appliction.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.MapCenters\WGL.MapCenter.Appliction\obj\Debug\net8.0\ref\WGL.MapCenter.Appliction.dll

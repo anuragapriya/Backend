@@ -52,7 +52,7 @@ namespace WGL.Auth.Persistence.Repositories.Generic
 
         public Task<int> sp_InsertAsync(T entity)
         {
-            return _dbconnection.ExecuteAsync("", "", commandType: CommandType.StoredProcedure);
+            return _dbconnection.ExecuteAsync("sp_CreateRecord", "", commandType: CommandType.StoredProcedure);
         }
 
         public Task<int> sp_UpdateAsync(T entity)

@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Utility package to consume all common features ")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fea32a24e1c3ed496c9fc5b7a2bc11939ebbb2a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("WGL.Utility")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WGL.Utility")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

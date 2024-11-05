@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using WGL.Auth.Application.CQRS.Account.Commands.CreateUser;
 using WGL.Auth.Application.CQRS.Account.Queries.GenerateToken;
 using WGL.Auth.Application.CQRS.Account.Queries.GetUserLoginToken;
 using WGL.Auth.Controllers.BaseController;
+using WGL.Auth.Domain.Entities;
 
 namespace WGL.Auth.Controllers.Account
 {
@@ -21,10 +23,27 @@ namespace WGL.Auth.Controllers.Account
         }
 
         // POST api/
-        [HttpPost]
-        public void Post([FromBody] string value)
+        [HttpPost("Authenticate")]
+        public void AuthenticateAsync([FromBody] string value)
         {
 
+        }
+        // POST api/
+        [HttpPost("Register")]
+        public async Task<IActionResult> RegisterAsync(CreateUserCommand userCommand)
+        {
+            var origin = Request.Headers.Origin;
+            return Ok(await Mediator.Send(userCommand));
+        }
+        [HttpPost("reset-password")]
+        public void ResetPasswordAsync([FromBody] string value)
+        {
+
+        }
+        [HttpPost("forgot-password")]
+        public void forgotPasswordAsync([FromBody] string value)
+        {
+            
         }
         // POST api/
         [HttpPut]

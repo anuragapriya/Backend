@@ -30,3 +30,36 @@ C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Po
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.pdb
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.genruntimeconfig.cache
 C:\Users\sonravi\OneDrive - Sutherland Cloud\Washington Gas Light Company\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\ref\WGL.Diversity.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\appsettings.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\WGL.Diversity.exe
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\WGL.Diversity.deps.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\WGL.Diversity.runtimeconfig.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\WGL.Diversity.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\WGL.Diversity.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.csproj.AssemblyReference.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.AssemblyInfoInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.AssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.csproj.CoreCompileInputs.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.sourcelink.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\staticwebassets\msbuild.WGL.Diversity.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\staticwebassets\msbuild.build.WGL.Diversity.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WGL.Diversity.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WGL.Diversity.props
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\scopedcss\bundle\WGL.Diversity.styles.css
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Dive.EAEB7B95.Up2Date
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\refint\WGL.Diversity.dll
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.pdb
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\WGL.Diversity.genruntimeconfig.cache
+C:\Users\mutanura\Documents\WGL\Source\WGL Portal Solutions\WGL.Diversities\WGL.Diversity\obj\Debug\net8.0\ref\WGL.Diversity.dll

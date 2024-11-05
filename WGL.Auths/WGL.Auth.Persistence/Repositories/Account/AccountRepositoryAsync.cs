@@ -1,7 +1,9 @@
-﻿using LazyCache;
+﻿using Dapper;
+using LazyCache;
 using Microsoft.Extensions.Caching.Memory;
 using Microsoft.Extensions.Options;
 using Serilog;
+using System.Data;
 using System.Text.Json;
 using WGL.Auth.Application.DTOs.Account;
 using WGL.Auth.Application.Exceptions;
@@ -19,6 +21,7 @@ namespace WGL.Auth.Persistence.Repositories.Account
         private readonly OneLoginSettings _oneLoginSettings = oneLoginSettings.Value;
         private readonly ICacheProvider _cacheProvider = cacheProvider;
         private readonly DapperContext _dapperContext = dapperContext;
+        private readonly IDbConnection _dbconnection = dapperContext.CreateConnection();
 
         public async Task<GenerateTokenResponse> GenerateTokenQuery(/*string AppKey, string SecretKey*/)
         {   
@@ -86,6 +89,45 @@ namespace WGL.Auth.Persistence.Repositories.Account
                 throw new ApiException($"{response.Content.ReadAsStringAsync().Result}");
             }
             return JsonSerializer.Deserialize<UserLoginTokenResponse>(response.Content.ReadAsStringAsync().Result);
+        }
+
+        public Task<bool> IsDuplicateUser(string EmailAddress)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<int> Sp_CreateUserAsync(ApplicationUser applicationUser)
+        {
+            DynamicParameters Params = new ();
+            Params.Add("@FirstName", applicationUser.FirstName);
+            Params.Add("@LastName", applicationUser.LastName);
+            Params.Add("@CompanyName", applicationUser.CompanyName);
+            Params.Add("@MobileNumber", applicationUser.MobileNumber);
+            Params.Add("@EmailID", applicationUser.EmailID);
+            Params.Add("@Password", applicationUser.Password);
+            Params.Add("@CreatedBy", applicationUser.CreatedBy);
+            Params.Add("@StatementType", "Insert");
+            return _dbconnection.ExecuteAsync("Sp_User_CRUD", Params, commandType: CommandType.StoredProcedure);
+        }
+
+        public Task<int> Sp_DeleteUserAsync(int UserId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<IEnumerator<ApplicationUser>> Sp_GetAllUsersAsync()
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<ApplicationUser> Sp_GetUserByIdAsync(int UserId)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Task<int> Sp_UpdateUserAsync(ApplicationUser applicationUser)
+        {
+            throw new NotImplementedException();
         }
     }
 }

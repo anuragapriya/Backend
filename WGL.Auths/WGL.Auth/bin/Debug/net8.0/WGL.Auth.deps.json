@@ -678,7 +678,14 @@
       },
       "System.Diagnostics.DiagnosticSource/8.0.0": {},
       "System.Diagnostics.EventLog/8.0.0": {},
-      "System.Formats.Asn1/8.0.1": {},
+      "System.Formats.Asn1/8.0.1": {
+        "runtime": {
+          "lib/net8.0/System.Formats.Asn1.dll": {
+            "assemblyVersion": "8.0.0.0",
+            "fileVersion": "8.0.724.31311"
+          }
+        }
+      },
       "System.IdentityModel.Tokens.Jwt/6.35.0": {
         "dependencies": {
           "Microsoft.IdentityModel.JsonWebTokens": "6.35.0",
@@ -768,18 +775,12 @@
           "WGL.Auth.Domain": "1.0.0"
         },
         "runtime": {
-          "WGL.Auth.Application.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WGL.Auth.Application.dll": {}
         }
       },
       "WGL.Auth.Domain/1.0.0": {
         "runtime": {
-          "WGL.Auth.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WGL.Auth.Domain.dll": {}
         }
       },
       "WGL.Auth.Persistence/1.0.0": {
@@ -789,10 +790,7 @@
           "WGL.Auth.Application": "1.0.0"
         },
         "runtime": {
-          "WGL.Auth.Persistence.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "WGL.Auth.Persistence.dll": {}
         }
       }
     }
